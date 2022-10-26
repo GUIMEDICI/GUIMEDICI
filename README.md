@@ -2,7 +2,7 @@
 <h4> Bem vindo ao meu repositório de projetos e estudos na programação. </h4>
 
 - 💾 Sou desenvolvedor Web Full Stack e possuo uma tendência ao desenvolvimento front-end atualmente.
-- 📝 Atualmente participando de um bootcamp web full stack da Santander e estudando Angular, Java e Spring boot.
+- 📝 Atualmente participando de uma formação em dados & python na lets code no programa da empresa Suzano.
 - 📧 Entre em contato comigo através do e-mail: mailguigs@gmail.com
 
 <br>
